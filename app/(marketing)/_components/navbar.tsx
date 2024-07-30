@@ -16,7 +16,7 @@ const Navbar = () => {
 					</Button>
 					<Button size="sm" asChild>
 						<Link href={'/sign-up'}>
-							Get Free Task
+							Sign Up
 						</Link>
 					</Button>
 				</div>
